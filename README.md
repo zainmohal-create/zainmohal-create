@@ -109,11 +109,21 @@ CURRENTLY USING / LEARNING
 <!-- ═══════════════════════════════════════════════════════════
      CONTRIBUTION SNAKE
      ═══════════════════════════════════════════════════════════ -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=78E2D0&width=760" width="65%" />
-03 / CONTRIBUTION MATRIX
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/zainmohal-create/zainmohal-create/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
+/ CONTRIBUTION MATRIX
 <br>
-<img src="https://raw.githubusercontent.com/zainmohal-create/zainmohal-create/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="92%">
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=zainmohal-create&bg_color=0A1110&color=78E2D0&line=78E2D0&point=FFFFFF&hide_border=true"
+    alt="GitHub Contribution Matrix"
+  />
+</p>
 <br>
 <sub>
 A visual trace of commits, experiments and progress.
