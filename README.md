@@ -112,7 +112,7 @@ CURRENTLY USING / LEARNING
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/zainmohal-create/zainmohal-create/output/github-snake.svg"
+    src="https://raw.githubusercontent.com/zainmohal-create/zainmohal-create/output/github-snake.svg?v=2"
     alt="GitHub Contribution Snake"
   />
 </p>
